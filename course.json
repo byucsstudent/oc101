@@ -10,9 +10,8 @@
           "type": "instruction",
           "path": "README.md",
           "id": "fc081380f8ae4b73a1d7030c1807b0cf",
-          "state": "stub",
-          "description": "Course introduction and objectives, overview of oceanography as a multidisciplinary science.",
-          "commit": "1fac0da978f483d41310218e68e55f3dffe3d03e"
+          "state": "stable",
+          "description": "Course introduction and objectives, overview of oceanography as a multidisciplinary science."
         },
         {
           "title": "The History of Ocean Exploration",

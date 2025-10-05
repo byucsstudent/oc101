@@ -1,5 +1,150 @@
 {
-  "schedule": "schedule/schedule.md",
+  "title": "oc100",
+  "description": "Introductory college level course on oceanography, covering the fundamental principles of ocean science, including ocean basins, seawater chemistry, ocean circulation, marine life, and human impacts on the ocean environment.",
   "modules": [
+    {
+      "title": "Introduction to Oceanography and Ocean Basins",
+      "description": "This module introduces the field of oceanography and explores the formation and structure of ocean basins.",
+      "topics": [
+        { "title": "Overview", "description": "Course introduction and objectives, overview of oceanography as a multidisciplinary science.", "path": "README.md", "type": "instruction", "state": "stub" },
+        { "title": "The History of Ocean Exploration", "description": "A review of significant historical events and figures in ocean exploration.", "path": "instruction/the-history-of-ocean-exploration/the-history-of-ocean-exploration.md", "type": "instruction", "state": "stub" },
+        { "title": "Earth's Structure and Plate Tectonics", "description": "Understanding the Earth's internal structure and the theory of plate tectonics.", "path": "instruction/earth-s-structure-and-plate-tectonics/earth-s-structure-and-plate-tectonics.md", "type": "instruction", "state": "stub" },
+        { "title": "Formation of Ocean Basins", "description": "The processes involved in the creation and evolution of ocean basins.", "path": "instruction/formation-of-ocean-basins/formation-of-ocean-basins.md", "type": "instruction", "state": "stub" },
+        { "title": "Continental Margins", "description": "Features and characteristics of continental shelves, slopes, and rises.", "path": "instruction/continental-margins/continental-margins.md", "type": "instruction", "state": "stub" },
+        { "title": "Deep-Ocean Floor Features", "description": "Exploring abyssal plains, mid-ocean ridges, trenches, and seamounts.", "path": "instruction/deep-ocean-floor-features/deep-ocean-floor-features.md", "type": "instruction", "state": "stub" },
+        { "title": "Ocean Sediments", "description": "Types, distribution, and significance of marine sediments.", "path": "instruction/ocean-sediments/ocean-sediments.md", "type": "instruction", "state": "stub" },
+        { "title": "Resources from the Sea", "description": "An overview of the valuable resources from the sea.", "path": "instruction/resources-from-the-sea/resources-from-the-sea.md", "type": "instruction", "state": "stub" },
+        { "title": "Bathymetry and Mapping the Ocean Floor", "description": "Techniques used to measure ocean depth and create bathymetric maps.", "path": "instruction/bathymetry-and-mapping-the-ocean-floor/bathymetry-and-mapping-the-ocean-floor.md", "type": "instruction", "state": "stub" },
+        { "title": "Ocean Provinces", "description": "Overview of ocean provinces from coastal regions to the open ocean.", "path": "instruction/ocean-provinces/ocean-provinces.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 1 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-1-review/module-1-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 1 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-1-assessment/module-1-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Seawater Chemistry and Physical Properties",
+      "description": "This module delves into the chemical composition of seawater and its physical properties, such as temperature, salinity, and density.",
+      "topics": [
+        { "title": "Chemical Composition of Seawater", "description": "Major ions, dissolved gases, and trace elements in seawater.", "path": "instruction/chemical-composition-of-seawater/chemical-composition-of-seawater.md", "type": "instruction", "state": "stub" },
+        { "title": "Salinity and its Variations", "description": "Factors affecting salinity and its distribution in the ocean.", "path": "instruction/salinity-and-its-variations/salinity-and-its-variations.md", "type": "instruction", "state": "stub" },
+        { "title": "Temperature and Density", "description": "The relationship between temperature, density, and ocean stratification.", "path": "instruction/temperature-and-density/temperature-and-density.md", "type": "instruction", "state": "stub" },
+        { "title": "The pH of Seawater", "description": "Understanding the carbonate buffering system and ocean acidification.", "path": "instruction/the-ph-of-seawater/the-ph-of-seawater.md", "type": "instruction", "state": "stub" },
+        { "title": "Dissolved Gases", "description": "Oxygen, carbon dioxide, and nitrogen in seawater.", "path": "instruction/dissolved-gases/dissolved-gases.md", "type": "instruction", "state": "stub" },
+        { "title": "Water Masses", "description": "Formation and characteristics of different water masses.", "path": "instruction/water-masses/water-masses.md", "type": "instruction", "state": "stub" },
+        { "title": "Light in the Ocean", "description": "Absorption and scattering of light in seawater.", "path": "instruction/light-in-the-ocean/light-in-the-ocean.md", "type": "instruction", "state": "stub" },
+        { "title": "Sound in the Ocean", "description": "Propagation of sound and its uses in oceanography.", "path": "instruction/sound-in-the-ocean/sound-in-the-ocean.md", "type": "instruction", "state": "stub" },
+        { "title": "Measuring Seawater Properties", "description": "Techniques and instruments used to measure temperature, salinity, and density.", "path": "instruction/measuring-seawater-properties/measuring-seawater-properties.md", "type": "instruction", "state": "stub" },
+        { "title": "Conservative and Non-Conservative Properties", "description": "Understanding conservative and non-conservative seawater properties.", "path": "instruction/conservative-and-non-conservative-properties/conservative-and-non-conservative-properties.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 2 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-2-review/module-2-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 2 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-2-assessment/module-2-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Ocean Circulation",
+      "description": "This module explores the patterns and drivers of ocean currents, including surface currents and deep-ocean circulation.",
+      "topics": [
+        { "title": "Surface Currents", "description": "Wind-driven currents and gyre formation.", "path": "instruction/surface-currents/surface-currents.md", "type": "instruction", "state": "stub" },
+        { "title": "The Coriolis Effect", "description": "Understanding the influence of Earth's rotation on ocean currents.", "path": "instruction/the-coriolis-effect/the-coriolis-effect.md", "type": "instruction", "state": "stub" },
+        { "title": "Ekman Transport", "description": "The net transport of water due to wind and the Coriolis effect.", "path": "instruction/ekman-transport/ekman-transport.md", "type": "instruction", "state": "stub" },
+        { "title": "Upwelling and Downwelling", "description": "Processes that bring nutrient-rich water to the surface or transport surface water downward.", "path": "instruction/upwelling-and-downwelling/upwelling-and-downwelling.md", "type": "instruction", "state": "stub" },
+        { "title": "Thermohaline Circulation", "description": "Density-driven circulation and the global conveyor belt.", "path": "instruction/thermohaline-circulation/thermohaline-circulation.md", "type": "instruction", "state": "stub" },
+        { "title": "Ocean-Atmosphere Interactions", "description": "The exchange of heat, moisture, and momentum between the ocean and atmosphere.", "path": "instruction/ocean-atmosphere-interactions/ocean-atmosphere-interactions.md", "type": "instruction", "state": "stub" },
+        { "title": "El Niño-Southern Oscillation (ENSO)", "description": "Understanding El Niño and La Niña events.", "path": "instruction/el-nino-southern-oscillation-enso/el-nino-southern-oscillation-enso.md", "type": "instruction", "state": "stub" },
+        { "title": "Ocean Waves", "description": "Wave formation, characteristics, and behavior.", "path": "instruction/ocean-waves/ocean-waves.md", "type": "instruction", "state": "stub" },
+        { "title": "Tides", "description": "The gravitational forces that cause tides.", "path": "instruction/tides/tides.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Processes", "description": "Erosion, deposition, and sediment transport along coastlines.", "path": "instruction/coastal-processes/coastal-processes.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 3 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-3-review/module-3-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 3 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-3-assessment/module-3-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Marine Life and Ecosystems",
+      "description": "This module explores the diversity of marine life, marine ecosystems, and the interactions between organisms and their environment.",
+      "topics": [
+        { "title": "Classification of Marine Organisms", "description": "Plankton, nekton, and benthos.", "path": "instruction/classification-of-marine-organisms/classification-of-marine-organisms.md", "type": "instruction", "state": "stub" },
+        { "title": "Primary Productivity", "description": "Photosynthesis and chemosynthesis in the ocean.", "path": "instruction/primary-productivity/primary-productivity.md", "type": "instruction", "state": "stub" },
+        { "title": "Food Webs and Trophic Levels", "description": "The flow of energy through marine ecosystems.", "path": "instruction/food-webs-and-trophic-levels/food-webs-and-trophic-levels.md", "type": "instruction", "state": "stub" },
+        { "title": "Phytoplankton", "description": "Diatoms, dinoflagellates, and other microscopic algae.", "path": "instruction/phytoplankton/phytoplankton.md", "type": "instruction", "state": "stub" },
+        { "title": "Zooplankton", "description": "Copepods, krill, and other small animals that drift in the ocean.", "path": "instruction/zooplankton/zooplankton.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Invertebrates", "description": "Sponges, corals, mollusks, and crustaceans.", "path": "instruction/marine-invertebrates/marine-invertebrates.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Vertebrates", "description": "Fish, marine mammals, sea turtles, and seabirds.", "path": "instruction/marine-vertebrates/marine-vertebrates.md", "type": "instruction", "state": "stub" },
+        { "title": "Deep-Sea Ecosystems", "description": "Hydrothermal vents, cold seeps, and the organisms that inhabit them.", "path": "instruction/deep-sea-ecosystems/deep-sea-ecosystems.md", "type": "instruction", "state": "stub" },
+        { "title": "Coral Reefs", "description": "Structure, biodiversity, and threats to coral reefs.", "path": "instruction/coral-reefs/coral-reefs.md", "type": "instruction", "state": "stub" },
+        { "title": "Estuaries and Coastal Wetlands", "description": "Ecological importance and vulnerability of estuaries and wetlands.", "path": "instruction/estuaries-and-coastal-wetlands/estuaries-and-coastal-wetlands.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 4 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-4-review/module-4-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 4 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-4-assessment/module-4-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Human Impacts on the Ocean",
+      "description": "This module examines the various ways human activities are affecting the ocean environment.",
+      "topics": [
+        { "title": "Marine Pollution", "description": "Sources and types of pollution, including plastics, oil spills, and chemical runoff.", "path": "instruction/marine-pollution/marine-pollution.md", "type": "instruction", "state": "stub" },
+        { "title": "Ocean Acidification", "description": "The impact of increased carbon dioxide levels on ocean pH and marine life.", "path": "instruction/ocean-acidification/ocean-acidification.md", "type": "instruction", "state": "stub" },
+        { "title": "Overfishing", "description": "The depletion of fish stocks and its consequences for marine ecosystems.", "path": "instruction/overfishing/overfishing.md", "type": "instruction", "state": "stub" },
+        { "title": "Habitat Destruction", "description": "The loss of coral reefs, mangroves, and other important marine habitats.", "path": "instruction/habitat-destruction/habitat-destruction.md", "type": "instruction", "state": "stub" },
+        { "title": "Climate Change and the Ocean", "description": "The effects of climate change on sea level, ocean temperature, and ocean circulation.", "path": "instruction/climate-change-and-the-ocean/climate-change-and-the-ocean.md", "type": "instruction", "state": "stub" },
+        { "title": "Invasive Species", "description": "The introduction and spread of non-native species in marine environments.", "path": "instruction/invasive-species/invasive-species.md", "type": "instruction", "state": "stub" },
+        { "title": "Eutrophication", "description": "Excessive nutrient enrichment and its impact on water quality.", "path": "instruction/eutrophication/eutrophication.md", "type": "instruction", "state": "stub" },
+        { "title": "Dead Zones", "description": "Areas of low oxygen concentration that cannot support marine life.", "path": "instruction/dead-zones/dead-zones.md", "type": "instruction", "state": "stub" },
+        { "title": "Plastic Pollution in the Ocean", "description": "Sources, distribution, and impacts of plastic pollution.", "path": "instruction/plastic-pollution-in-the-ocean/plastic-pollution-in-the-ocean.md", "type": "instruction", "state": "stub" },
+        { "title": "Microplastics", "description": "The presence and impact of microplastics in the marine environment.", "path": "instruction/microplastics/microplastics.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 5 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-5-review/module-5-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 5 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-5-assessment/module-5-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Ocean Conservation and Management",
+      "description": "This module explores strategies for protecting and managing ocean resources sustainably.",
+      "topics": [
+        { "title": "Marine Protected Areas (MPAs)", "description": "The role of MPAs in conserving marine biodiversity.", "path": "instruction/marine-protected-areas-mpas/marine-protected-areas-mpas.md", "type": "instruction", "state": "stub" },
+        { "title": "Sustainable Fisheries Management", "description": "Strategies for managing fisheries to ensure long-term sustainability.", "path": "instruction/sustainable-fisheries-management/sustainable-fisheries-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Pollution Reduction Strategies", "description": "Methods for reducing pollution from land-based and marine sources.", "path": "instruction/pollution-reduction-strategies/pollution-reduction-strategies.md", "type": "instruction", "state": "stub" },
+        { "title": "Coastal Zone Management", "description": "Integrated management of coastal resources and ecosystems.", "path": "instruction/coastal-zone-management/coastal-zone-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Climate Change Mitigation and Adaptation", "description": "Strategies for reducing greenhouse gas emissions and adapting to the impacts of climate change.", "path": "instruction/climate-change-mitigation-and-adaptation/climate-change-mitigation-and-adaptation.md", "type": "instruction", "state": "stub" },
+        { "title": "International Agreements and Treaties", "description": "International efforts to protect the ocean environment.", "path": "instruction/international-agreements-and-treaties/international-agreements-and-treaties.md", "type": "instruction", "state": "stub" },
+        { "title": "Ecosystem-Based Management", "description": "Managing human activities to maintain the health and integrity of marine ecosystems.", "path": "instruction/ecosystem-based-management/ecosystem-based-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Restoration of Marine Habitats", "description": "Techniques for restoring degraded marine habitats, such as coral reefs and mangroves.", "path": "instruction/restoration-of-marine-habitats/restoration-of-marine-habitats.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Debris Removal", "description": "Efforts to clean up plastic and other debris from the ocean.", "path": "instruction/marine-debris-removal/marine-debris-removal.md", "type": "instruction", "state": "stub" },
+        { "title": "Citizen Science and Ocean Monitoring", "description": "The role of citizen scientists in collecting data and monitoring ocean health.", "path": "instruction/citizen-science-and-ocean-monitoring/citizen-science-and-ocean-monitoring.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 6 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-6-review/module-6-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 6 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-6-assessment/module-6-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Ocean Law and Policy",
+      "description": "This module examines the legal and policy frameworks governing the use and protection of the ocean.",
+      "topics": [
+        { "title": "The Law of the Sea", "description": "The United Nations Convention on the Law of the Sea (UNCLOS).", "path": "instruction/the-law-of-the-sea/the-law-of-the-sea.md", "type": "instruction", "state": "stub" },
+        { "title": "Maritime Zones", "description": "Internal waters, territorial sea, exclusive economic zone (EEZ), and high seas.", "path": "instruction/maritime-zones/maritime-zones.md", "type": "instruction", "state": "stub" },
+        { "title": "Navigation Rights", "description": "Freedom of navigation and innocent passage.", "path": "instruction/navigation-rights/navigation-rights.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Resource Management", "description": "Legal frameworks for managing fisheries, mineral resources, and other marine resources.", "path": "instruction/marine-resource-management/marine-resource-management.md", "type": "instruction", "state": "stub" },
+        { "title": "Marine Environmental Protection", "description": "Legal frameworks for preventing and addressing marine pollution.", "path": "instruction/marine-environmental-protection/marine-environmental-protection.md", "type": "instruction", "state": "stub" },
+        { "title": "Dispute Resolution", "description": "Mechanisms for resolving disputes related to ocean issues.", "path": "instruction/dispute-resolution/dispute-resolution.md", "type": "instruction", "state": "stub" },
+        { "title": "National Ocean Policies", "description": "Ocean policies and laws of various countries.", "path": "instruction/national-ocean-policies/national-ocean-policies.md", "type": "instruction", "state": "stub" },
+        { "title": "International Organizations", "description": "The role of international organizations in ocean governance.", "path": "instruction/international-organizations/international-organizations.md", "type": "instruction", "state": "stub" },
+        { "title": "The Arctic Ocean", "description": "Special legal and policy issues related to the Arctic Ocean.", "path": "instruction/the-arctic-ocean/the-arctic-ocean.md", "type": "instruction", "state": "stub" },
+        { "title": "Deep Seabed Mining", "description": "Legal and environmental issues related to deep seabed mining.", "path": "instruction/deep-seabed-mining/deep-seabed-mining.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 7 Review", "description": "Review key concepts and prepare for module assessment.", "path": "instruction/module-7-review/module-7-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Module 7 Assessment", "description": "Test your understanding of the material covered in the module.", "path": "instruction/module-7-assessment/module-7-assessment.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Capstone Project: Oceanographic Research and Solutions",
+      "description": "This module provides students with the opportunity to apply their knowledge to a real-world oceanographic problem and develop potential solutions.",
+      "topics": [
+        { "title": "Project Introduction and Topic Selection", "description": "Introduction to the capstone project and guidelines for selecting a research topic.", "path": "instruction/project-introduction-and-topic-selection/project-introduction-and-topic-selection.md", "type": "instruction", "state": "stub" },
+        { "title": "Literature Review and Research Design", "description": "Conducting a literature review and developing a research design.", "path": "instruction/literature-review-and-research-design/literature-review-and-research-design.md", "type": "instruction", "state": "stub" },
+        { "title": "Data Collection and Analysis", "description": "Collecting and analyzing data related to the research topic.", "path": "instruction/data-collection-and-analysis/data-collection-and-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Developing Solutions and Recommendations", "description": "Developing potential solutions and recommendations based on research findings.", "path": "instruction/developing-solutions-and-recommendations/developing-solutions-and-recommendations.md", "type": "instruction", "state": "stub" },
+        { "title": "Project Report Writing", "description": "Writing a comprehensive project report that summarizes the research and findings.", "path": "instruction/project-report-writing/project-report-writing.md", "type": "instruction", "state": "stub" },
+        { "title": "Presentation Skills", "description": "Preparing and delivering an effective presentation on the capstone project.", "path": "instruction/presentation-skills/presentation-skills.md", "type": "instruction", "state": "stub" },
+        { "title": "Peer Review and Feedback", "description": "Providing and receiving feedback on project reports and presentations.", "path": "instruction/peer-review-and-feedback/peer-review-and-feedback.md", "type": "instruction", "state": "stub" },
+        { "title": "Project Presentation", "description": "Presenting the capstone project to the class.", "path": "instruction/project-presentation/project-presentation.md", "type": "instruction", "state": "stub" },
+        { "title": "Project Submission", "description": "Submitting the final project report.", "path": "instruction/project-submission/project-submission.md", "type": "instruction", "state": "stub" },
+        { "title": "Project Grading and Evaluation", "description": "Grading criteria and evaluation of the capstone project.", "path": "instruction/project-grading-and-evaluation/project-grading-and-evaluation.md", "type": "instruction", "state": "stub" },
+        { "title": "Course Review", "description": "Comprehensive review of the course material.", "path": "instruction/course-review/course-review.md", "type": "instruction", "state": "stub" },
+        { "title": "Final Exam", "description": "Comprehensive final exam covering all course material.", "path": "instruction/final-exam/final-exam.md", "type": "instruction", "state": "stub" }
+      ]
+    }
   ]
 }

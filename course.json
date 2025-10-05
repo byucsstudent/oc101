@@ -212,7 +212,7 @@
           "type": "instruction",
           "path": "instruction/surface-currents/surface-currents.md",
           "id": "087c3239e91f4e52a7a19d2e572a00f5",
-          "state": "stub",
+          "state": "stable",
           "description": "Wind-driven currents and gyre formation."
         },
         {

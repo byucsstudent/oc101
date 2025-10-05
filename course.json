@@ -268,7 +268,7 @@
           "type": "instruction",
           "path": "instruction/ocean-waves/ocean-waves.md",
           "id": "8d73b888ae554a85ac5b4c244ba0757d",
-          "state": "stub",
+          "state": "stable",
           "description": "Wave formation, characteristics, and behavior."
         },
         {

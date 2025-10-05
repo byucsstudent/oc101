@@ -276,7 +276,7 @@
           "type": "instruction",
           "path": "instruction/tides/tides.md",
           "id": "f1ce3a085c4a4e52ba18d3755a79114f",
-          "state": "stub",
+          "state": "stable",
           "description": "The gravitational forces that cause tides."
         },
         {
